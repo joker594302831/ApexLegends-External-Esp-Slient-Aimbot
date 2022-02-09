@@ -7,21 +7,14 @@ rcs apex is an apexlegends hack made entirely by me
 I will support this product for 2 months.In addition to the game updates, I will update the dates with other additional updates below.
 **WHEN YOU BUILD IT, YOU WILL NEED A DLL INJECTOR. YOU CAN FIND THE INJECTOR ON MY PROFILE. I SHARED IT.**
 --------------------------------------------------------------------------------------
-Updated Time : 01/13/2022
-Next Update : 01/16/2022
+Updated Time : 02/13/2022
+Next Update : 02/16/2022
 
 Current Status Undetected
 
 ## Media
 ![image](https://user-images.githubusercontent.com/97662953/149306714-de16a6b9-ef05-4e18-baa1-95efd42877d1.png)
 
-
-## 🌌 Setup
-- Download
-- Fix the entire cheat
-- Build in Release | x86
-- Run when ApexLegends is open
-- Go to hell
 
 ### 📝 Todo
 
